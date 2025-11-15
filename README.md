@@ -1,24 +1,15 @@
 # 📊 Power BI Sales Analysis Project
 
 ## 🧩 Overview
-This project analyzes multi-year sales data (2020–2022) using **Microsoft Power BI** to track performance, identify trends, and uncover insights that support data-driven business decisions.**Here I Utilized Time Intelligence Functions by constructing Date table.**
+This project analyzes multi-year sales data (2020–2022) using **Microsoft Power BI** to track performance, identify trends, and uncover insights that support data-driven business decisions. **Here, I utilized Time Intelligence functions by constructing a Date table.**
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🗂️ Data Model (Star Schema)
+Used **star-schema** data model to optimize performance and support accurate time-based calculations.
 
+![Schema ](schema.png)
 
-![Power BI Sales Dashboard](Dashboard.png)
-
----
-
-## 🧠 Responsibilities
-- Collected, cleaned, and structured raw sales data for reporting and analysis in Power Query.  
-- Designed and developed **interactive Power BI dashboards** for real-time performance tracking.  
-- Built **regional sales comparisons** for North America, Europe, and Australia.  
-- Created visualizations for **product categories** (Bikes, Accessories, Clothing) to measure revenue and margins.  
-- Implemented **filters, slicers, and KPI cards** for total sales, profit margins, and order volume.  
-- Delivered actionable insights to guide **sales, marketing, and business strategy**.
 
 ---
 
@@ -36,9 +27,6 @@ This project analyzes multi-year sales data (2020–2022) using **Microsoft Powe
 
 ---
 
-## 🧰 Tools & Technologies
-- **Power BI Desktop** — dashboards, DAX calculations, visualizations  
-- **Power BI** — data cleaning and preparation  
-- **Data Analysis & Business Intelligence** — trend analysis, KPIs, growth tracking  
+## 🖼️ Dashboard Preview
 
----
+![Power BI Sales Dashboard](Dashboard.png)
